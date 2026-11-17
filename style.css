@@ -49,6 +49,19 @@ button {
     display: flex;
 }
 
+.headerbody {
+    display:flex;
+    flex-direction: column;
+    padding-right: 32px;
+    margin-bottom: 128px;
+}
+
+.missingimg {
+    background-color: grey;
+    padding: 16px;
+    margin-bottom: 128px;
+}
+
 #topbox {
     flex: 5, 5, 250px;
     display: flex;
@@ -71,4 +84,21 @@ button {
 #mainlogo {
     padding-left: 8px;
     padding-right: 8px;
+}
+
+#heroheading {
+    font-size:48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+#herosubtext {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+#herobutton {
+    border-radius: 8px;
+    height: 48px;
+    width: 128px;
 }
