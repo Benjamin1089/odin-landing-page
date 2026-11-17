@@ -16,8 +16,18 @@
     display:flex;
 }
 
+.header {
+    display:flex;
+}
+
+.hero {
+    display: flex;
+}
+
 #topbox {
     flex: 5, 5, 250px;
+    display: flex;
+    flex-direction: column;
 }
 
 #bottombox {
