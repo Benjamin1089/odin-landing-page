@@ -34,8 +34,6 @@ button {
 .header {
     display:flex;
     justify-content: space-between;
-    padding-left: 256px;
-    padding-right: 256px;
 }
 
 .hero {
@@ -50,6 +48,8 @@ button {
     flex: 5, 5, 250px;
     display: flex;
     flex-direction: column;
+    padding-left: 256px;
+    padding-right: 256px;
 }
 
 #bottombox {
