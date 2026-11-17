@@ -22,4 +22,6 @@
 
 #bottombox {
     flex: 5, 5, 100px;
+    display: flex;
+    justify-content: center;
 }
