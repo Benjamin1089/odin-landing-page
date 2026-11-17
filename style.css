@@ -1,0 +1,6 @@
+.darkblock {
+    color: #1F2937;
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
+}
