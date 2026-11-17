@@ -27,6 +27,25 @@ button {
     background-color: white;
     flex: 5, 5, 500px;
     display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.smlimg {
+    border: blue;
+}
+
+.gallery {
+    display: flex;
+}
+
+.details {
+    display: flex;
+}
+
+.action {
+    display: flex;
+    background-color: #3882F6;
 }
 
 .darkblock {
