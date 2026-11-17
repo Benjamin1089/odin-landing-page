@@ -9,6 +9,11 @@ li {
     padding-right: 8px;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
 button {
     background-color: #3882F6
 }
