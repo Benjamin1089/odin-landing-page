@@ -29,7 +29,9 @@ li {
 
 .header {
     display:flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    padding-left: 256px;
+    padding-right: 256px;
 }
 
 .hero {
