@@ -4,23 +4,26 @@
 }
 
 .whiteblock {
-    background-color: blue;
+    background-color: white;
     height: 750px;
     flex-grow: 10;
+    flex-shrink: 10;
+    display: flex;
 }
 
 .darkblock {
     background-color: #1F2937;
+    align-self: stretch;
     display:flex;
 }
 
 #topbox {
-    height: 250px;
     flex-grow: 5;
+    flex-shrink: 5;
 }
 
 #bottombox {
     height: 100px;
-    align-self: flex-end;
     flex-grow: 1;
+    flex-shrink: 1;
 }
