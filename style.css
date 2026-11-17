@@ -5,9 +5,7 @@
 
 .whiteblock {
     background-color: white;
-    height: 750px;
-    flex-grow: 10;
-    flex-shrink: 10;
+    flex: 5, 5, 500px;
     display: flex;
 }
 
@@ -18,12 +16,9 @@
 }
 
 #topbox {
-    flex-grow: 5;
-    flex-shrink: 5;
+    flex: 5, 5, 250px;
 }
 
 #bottombox {
-    height: 100px;
-    flex-grow: 1;
-    flex-shrink: 1;
+    flex: 5, 5, 100px;
 }
