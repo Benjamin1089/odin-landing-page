@@ -46,8 +46,9 @@ button {
     display: flex;
 }
 
-.details {
+.point {
     display: flex;
+    flex-direction: column;
 }
 
 .action {
