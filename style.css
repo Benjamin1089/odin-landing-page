@@ -11,6 +11,7 @@
 
 .darkblock {
     background-color: #1F2937;
+    color: white;
     align-self: stretch;
     display:flex;
 }
