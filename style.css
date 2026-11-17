@@ -1,3 +1,14 @@
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
 .layers{
     display:flex;
     flex-direction:column;
@@ -18,9 +29,14 @@
 
 .header {
     display:flex;
+    justify-content: space-evenly;
 }
 
 .hero {
+    display: flex;
+}
+
+.logo {
     display: flex;
 }
 
@@ -34,4 +50,14 @@
     flex: 5, 5, 100px;
     display: flex;
     justify-content: center;
+}
+
+#mainheader {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+#mainlogo {
+    padding-left: 8px;
+    padding-right: 8px;
 }
