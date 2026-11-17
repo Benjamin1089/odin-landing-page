@@ -9,6 +9,10 @@ li {
     padding-right: 8px;
 }
 
+button {
+    background-color: #3882F6
+}
+
 .layers{
     display:flex;
     flex-direction:column;
