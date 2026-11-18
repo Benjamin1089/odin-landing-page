@@ -54,6 +54,13 @@ button {
     padding-right: 256px;
 }
 
+.source {
+    align-self: flex-end;
+    margin-right: 256px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
 .gallery {
     display: flex;
 }
