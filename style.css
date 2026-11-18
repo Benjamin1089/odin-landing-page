@@ -34,12 +34,24 @@ button {
 .smlimg {
     background-color: blue;
     border-color: blue;
-    border-width: 8px;
+    border-width: 32px;
+    border-radius: 8px;
     width: 200px;
     height: 200px;
     padding: 16px;
     margin-left: 8px;
     margin-right: 8px;
+}
+
+.quote {
+    margin-top: 256px;
+    Background-color: #E5E7EB;
+    Font-size: 36px;
+    Color: #1F2937;
+    font-Weight: 300;
+    Font-style: italic;
+    padding-left: 256px;
+    padding-right: 256px;
 }
 
 .gallery {
