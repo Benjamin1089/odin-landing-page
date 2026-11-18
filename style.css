@@ -73,6 +73,16 @@ button {
 .action {
     display: flex;
     background-color: #3882F6;
+    padding-left: 64px;
+    padding-right: 64px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+.actiontext {
+    display: flex;
+    flex-direction: column;
+    margin-right: 64px;
 }
 
 .darkblock {
